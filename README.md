@@ -1,5 +1,20 @@
-            
-<legend>FORMULARIO </legend>
+         <!DOCTYPE html>
+<html lang="en">
+<body bgcolor="">
+<html>
+
+https://enry-kater.github.io/venta-prue//
+
+                    <head>
+                                      <title>
+                                           formulario de registro
+                                      </title>
+</head>
+<body>
+<h1>Formulario</h1>
+   
+<p><legend>FORMULARIO </legend><p>
+
 ingresar su  nombre:
 <input type= "text" size="30">
 <br>
