@@ -3,8 +3,6 @@ DOCTYPE html>
 <body bgcolor="">
 <html>
 
-https://enry-kater.github.io/venta-prue//
-
                     <head>
                                       <title>
                                            formulario de registro
@@ -20,7 +18,6 @@ ingresar su  nombre:
 <br>
 ingresar su  apellidos:
 <input type="text" size="30">
-<br
 </fieldset>
 <h1>dispositivo </h1>
 <form>
@@ -55,7 +52,8 @@ Radio button
 <input type="radio">tables 
 <input type="radio"> Telefono
 <input type="radio">  y otros tipos de tecnologia 
-<textarea rows="4" cols ="30">Escribir descripción de su dispositivo  como se daño </textarea>
+<textarea rows="4" cols ="30">
+  <p>  Escribir descripción de su dispositivo  como se daño </textarea>  <p>  
 <br>
 <!-- inicio del piede de pagina -->
   <div class="footer">
@@ -73,14 +71,6 @@ al selecionar enviar sus datos estan ya registrado
 <fieldset>
 
 muchas grasias al  rellenar todo sus datos solo atualizar 
-
-<a href="Base Access China.html"></a> <br> 
-	
-<A "https://enry-kater.github.io/venta-prue//">  formulario  1  </A> <br>
-    <A HREF="iindex.html"> alegre  2  </A> <br>
-
-
-
 </form>
 </body>
 </html>
